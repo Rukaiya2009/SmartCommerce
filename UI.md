@@ -43,10 +43,12 @@ SmartCommerce is a modern, clean, and scalable e-commerce platform for both digi
 * Role selector dropdown (Admin, Seller, Customer).
 * Use icons for inputs (email, password, eye toggle).
 * Show error messages clearly.
+* Page demos:
   *** SignUp Page Demo:
   <img width="1024" height="768" alt="image" src="https://github.com/user-attachments/assets/89d890d6-92c5-4866-ab28-e45b427f6eaa" />
   ***Login Page:
   <img width="1024" height="768" alt="image" src="https://github.com/user-attachments/assets/ef0fab8d-d985-44d3-8293-f7ef9b3f1c9a" />
+  <img width="900" height="1030" alt="image" src="https://github.com/user-attachments/assets/43c7dc0f-1c59-44d0-870f-0b8fb0cc1f0f" />
 
 ---
 
