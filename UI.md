@@ -49,6 +49,7 @@ SmartCommerce is a modern, clean, and scalable e-commerce platform for both digi
   ***Login Page:
   <img width="1024" height="768" alt="image" src="https://github.com/user-attachments/assets/ef0fab8d-d985-44d3-8293-f7ef9b3f1c9a" />
   <img width="900" height="1030" alt="image" src="https://github.com/user-attachments/assets/43c7dc0f-1c59-44d0-870f-0b8fb0cc1f0f" />
+<img width="800" height="450" alt="image" src="https://github.com/user-attachments/assets/218d082b-82c1-4116-a29f-178ea57654e3" />
 
 ---
 
