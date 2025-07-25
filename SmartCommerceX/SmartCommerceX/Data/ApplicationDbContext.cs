@@ -85,7 +85,7 @@ namespace SmartCommerceX.Data
             // Book - Genre: many-to-one
             builder.Entity<Book>()
                 .HasOne(b => b.Genre)
-                .WithMany(g => g.Products)
+                .WithMany(g => g.Books)
                 .HasForeignKey(b => b.GenreId)
                 .OnDelete(DeleteBehavior.Restrict);
 
