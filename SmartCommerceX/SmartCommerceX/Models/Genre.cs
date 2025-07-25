@@ -7,6 +7,6 @@ namespace SmartCommerceX.Models
         public string Name { get; set; }
         public string? Description { get; set; }
 
-        public ICollection<Product> Products { get; set; }
+        public ICollection<Book> Books { get; set; } = new List<Book>();
     }
 } 
