@@ -1,0 +1,279 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Course-25\\Rukaiya Projects\\SmartCommerce\\SmartCommerceX\\SmartCommerceX\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{162BBCBB-18CD-4D42-831A-143EA2B3B14A}|SmartCommerceX.csproj|f:\\course-25\\rukaiya projects\\smartcommerce\\smartcommercex\\smartcommercex\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{162BBCBB-18CD-4D42-831A-143EA2B3B14A}|SmartCommerceX.csproj|solutionrelative:models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{162BBCBB-18CD-4D42-831A-143EA2B3B14A}|SmartCommerceX.csproj|f:\\course-25\\rukaiya projects\\smartcommerce\\smartcommercex\\smartcommercex\\models\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{162BBCBB-18CD-4D42-831A-143EA2B3B14A}|SmartCommerceX.csproj|solutionrelative:models\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{162BBCBB-18CD-4D42-831A-143EA2B3B14A}|SmartCommerceX.csproj|f:\\course-25\\rukaiya projects\\smartcommerce\\smartcommercex\\smartcommercex\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{162BBCBB-18CD-4D42-831A-143EA2B3B14A}|SmartCommerceX.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{162BBCBB-18CD-4D42-831A-143EA2B3B14A}|SmartCommerceX.csproj|f:\\course-25\\rukaiya projects\\smartcommerce\\smartcommercex\\smartcommercex\\data\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{162BBCBB-18CD-4D42-831A-143EA2B3B14A}|SmartCommerceX.csproj|solutionrelative:data\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{162BBCBB-18CD-4D42-831A-143EA2B3B14A}|SmartCommerceX.csproj|f:\\course-25\\rukaiya projects\\smartcommerce\\smartcommercex\\smartcommercex\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{162BBCBB-18CD-4D42-831A-143EA2B3B14A}|SmartCommerceX.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{162BBCBB-18CD-4D42-831A-143EA2B3B14A}|SmartCommerceX.csproj|f:\\course-25\\rukaiya projects\\smartcommerce\\smartcommercex\\smartcommercex\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{162BBCBB-18CD-4D42-831A-143EA2B3B14A}|SmartCommerceX.csproj|solutionrelative:models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{162BBCBB-18CD-4D42-831A-143EA2B3B14A}|SmartCommerceX.csproj|f:\\course-25\\rukaiya projects\\smartcommerce\\smartcommercex\\smartcommercex\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{162BBCBB-18CD-4D42-831A-143EA2B3B14A}|SmartCommerceX.csproj|solutionrelative:models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{162BBCBB-18CD-4D42-831A-143EA2B3B14A}|SmartCommerceX.csproj|f:\\course-25\\rukaiya projects\\smartcommerce\\smartcommercex\\smartcommercex\\models\\transactionhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{162BBCBB-18CD-4D42-831A-143EA2B3B14A}|SmartCommerceX.csproj|solutionrelative:models\\transactionhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{162BBCBB-18CD-4D42-831A-143EA2B3B14A}|SmartCommerceX.csproj|f:\\course-25\\rukaiya projects\\smartcommerce\\smartcommercex\\smartcommercex\\models\\techproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{162BBCBB-18CD-4D42-831A-143EA2B3B14A}|SmartCommerceX.csproj|solutionrelative:models\\techproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{162BBCBB-18CD-4D42-831A-143EA2B3B14A}|SmartCommerceX.csproj|f:\\course-25\\rukaiya projects\\smartcommerce\\smartcommercex\\smartcommercex\\models\\stock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{162BBCBB-18CD-4D42-831A-143EA2B3B14A}|SmartCommerceX.csproj|solutionrelative:models\\stock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{162BBCBB-18CD-4D42-831A-143EA2B3B14A}|SmartCommerceX.csproj|f:\\course-25\\rukaiya projects\\smartcommerce\\smartcommercex\\smartcommercex\\models\\shoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{162BBCBB-18CD-4D42-831A-143EA2B3B14A}|SmartCommerceX.csproj|solutionrelative:models\\shoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{162BBCBB-18CD-4D42-831A-143EA2B3B14A}|SmartCommerceX.csproj|f:\\course-25\\rukaiya projects\\smartcommerce\\smartcommercex\\smartcommercex\\models\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{162BBCBB-18CD-4D42-831A-143EA2B3B14A}|SmartCommerceX.csproj|solutionrelative:models\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{162BBCBB-18CD-4D42-831A-143EA2B3B14A}|SmartCommerceX.csproj|f:\\course-25\\rukaiya projects\\smartcommerce\\smartcommercex\\smartcommercex\\models\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{162BBCBB-18CD-4D42-831A-143EA2B3B14A}|SmartCommerceX.csproj|solutionrelative:models\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{162BBCBB-18CD-4D42-831A-143EA2B3B14A}|SmartCommerceX.csproj|f:\\course-25\\rukaiya projects\\smartcommerce\\smartcommercex\\smartcommercex\\models\\ebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{162BBCBB-18CD-4D42-831A-143EA2B3B14A}|SmartCommerceX.csproj|solutionrelative:models\\ebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{162BBCBB-18CD-4D42-831A-143EA2B3B14A}|SmartCommerceX.csproj|f:\\course-25\\rukaiya projects\\smartcommerce\\smartcommercex\\smartcommercex\\models\\cosmeticproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{162BBCBB-18CD-4D42-831A-143EA2B3B14A}|SmartCommerceX.csproj|solutionrelative:models\\cosmeticproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Genre.cs",
+              "DocumentMoniker": "F:\\Course-25\\Rukaiya Projects\\SmartCommerce\\SmartCommerceX\\SmartCommerceX\\Models\\Genre.cs",
+              "RelativeDocumentMoniker": "Models\\Genre.cs",
+              "ToolTip": "F:\\Course-25\\Rukaiya Projects\\SmartCommerce\\SmartCommerceX\\SmartCommerceX\\Models\\Genre.cs",
+              "RelativeToolTip": "Models\\Genre.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T14:26:23.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "F:\\Course-25\\Rukaiya Projects\\SmartCommerce\\SmartCommerceX\\SmartCommerceX\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "F:\\Course-25\\Rukaiya Projects\\SmartCommerce\\SmartCommerceX\\SmartCommerceX\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAASwFcAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T14:24:29.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "F:\\Course-25\\Rukaiya Projects\\SmartCommerce\\SmartCommerceX\\SmartCommerceX\\Data\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationUser.cs",
+              "ToolTip": "F:\\Course-25\\Rukaiya Projects\\SmartCommerce\\SmartCommerceX\\SmartCommerceX\\Data\\ApplicationUser.cs",
+              "RelativeToolTip": "Data\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T14:28:55.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Order.cs",
+              "DocumentMoniker": "F:\\Course-25\\Rukaiya Projects\\SmartCommerce\\SmartCommerceX\\SmartCommerceX\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "Models\\Order.cs",
+              "ToolTip": "F:\\Course-25\\Rukaiya Projects\\SmartCommerce\\SmartCommerceX\\SmartCommerceX\\Models\\Order.cs",
+              "RelativeToolTip": "Models\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T14:26:22.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Product.cs",
+              "DocumentMoniker": "F:\\Course-25\\Rukaiya Projects\\SmartCommerce\\SmartCommerceX\\SmartCommerceX\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Models\\Product.cs",
+              "ToolTip": "F:\\Course-25\\Rukaiya Projects\\SmartCommerce\\SmartCommerceX\\SmartCommerceX\\Models\\Product.cs",
+              "RelativeToolTip": "Models\\Product.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAlwCQAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T14:09:22.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Category.cs",
+              "DocumentMoniker": "F:\\Course-25\\Rukaiya Projects\\SmartCommerce\\SmartCommerceX\\SmartCommerceX\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Models\\Category.cs",
+              "ToolTip": "F:\\Course-25\\Rukaiya Projects\\SmartCommerce\\SmartCommerceX\\SmartCommerceX\\Models\\Category.cs",
+              "RelativeToolTip": "Models\\Category.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAkAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T14:25:56.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Book.cs",
+              "DocumentMoniker": "F:\\Course-25\\Rukaiya Projects\\SmartCommerce\\SmartCommerceX\\SmartCommerceX\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "Models\\Book.cs",
+              "ToolTip": "F:\\Course-25\\Rukaiya Projects\\SmartCommerce\\SmartCommerceX\\SmartCommerceX\\Models\\Book.cs",
+              "RelativeToolTip": "Models\\Book.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAIA7wCoAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T14:25:47.571Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TransactionHistory.cs",
+              "DocumentMoniker": "F:\\Course-25\\Rukaiya Projects\\SmartCommerce\\SmartCommerceX\\SmartCommerceX\\Models\\TransactionHistory.cs",
+              "RelativeDocumentMoniker": "Models\\TransactionHistory.cs",
+              "ToolTip": "F:\\Course-25\\Rukaiya Projects\\SmartCommerce\\SmartCommerceX\\SmartCommerceX\\Models\\TransactionHistory.cs",
+              "RelativeToolTip": "Models\\TransactionHistory.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwA0AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T14:27:38.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TechProduct.cs",
+              "DocumentMoniker": "F:\\Course-25\\Rukaiya Projects\\SmartCommerce\\SmartCommerceX\\SmartCommerceX\\Models\\TechProduct.cs",
+              "RelativeDocumentMoniker": "Models\\TechProduct.cs",
+              "ToolTip": "F:\\Course-25\\Rukaiya Projects\\SmartCommerce\\SmartCommerceX\\SmartCommerceX\\Models\\TechProduct.cs",
+              "RelativeToolTip": "Models\\TechProduct.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T14:27:26.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Stock.cs",
+              "DocumentMoniker": "F:\\Course-25\\Rukaiya Projects\\SmartCommerce\\SmartCommerceX\\SmartCommerceX\\Models\\Stock.cs",
+              "RelativeDocumentMoniker": "Models\\Stock.cs",
+              "ToolTip": "F:\\Course-25\\Rukaiya Projects\\SmartCommerce\\SmartCommerceX\\SmartCommerceX\\Models\\Stock.cs",
+              "RelativeToolTip": "Models\\Stock.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T14:27:12.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ShoppingCart.cs",
+              "DocumentMoniker": "F:\\Course-25\\Rukaiya Projects\\SmartCommerce\\SmartCommerceX\\SmartCommerceX\\Models\\ShoppingCart.cs",
+              "RelativeDocumentMoniker": "Models\\ShoppingCart.cs",
+              "ToolTip": "F:\\Course-25\\Rukaiya Projects\\SmartCommerce\\SmartCommerceX\\SmartCommerceX\\Models\\ShoppingCart.cs",
+              "RelativeToolTip": "Models\\ShoppingCart.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwCYAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T14:27:00.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Payment.cs",
+              "DocumentMoniker": "F:\\Course-25\\Rukaiya Projects\\SmartCommerce\\SmartCommerceX\\SmartCommerceX\\Models\\Payment.cs",
+              "RelativeDocumentMoniker": "Models\\Payment.cs",
+              "ToolTip": "F:\\Course-25\\Rukaiya Projects\\SmartCommerce\\SmartCommerceX\\SmartCommerceX\\Models\\Payment.cs",
+              "RelativeToolTip": "Models\\Payment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T14:26:41.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Ebook.cs",
+              "DocumentMoniker": "F:\\Course-25\\Rukaiya Projects\\SmartCommerce\\SmartCommerceX\\SmartCommerceX\\Models\\Ebook.cs",
+              "RelativeDocumentMoniker": "Models\\Ebook.cs",
+              "ToolTip": "F:\\Course-25\\Rukaiya Projects\\SmartCommerce\\SmartCommerceX\\SmartCommerceX\\Models\\Ebook.cs",
+              "RelativeToolTip": "Models\\Ebook.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAA0wDMAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T14:26:17.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Review.cs",
+              "DocumentMoniker": "F:\\Course-25\\Rukaiya Projects\\SmartCommerce\\SmartCommerceX\\SmartCommerceX\\Models\\Review.cs",
+              "RelativeDocumentMoniker": "Models\\Review.cs",
+              "ToolTip": "F:\\Course-25\\Rukaiya Projects\\SmartCommerce\\SmartCommerceX\\SmartCommerceX\\Models\\Review.cs",
+              "RelativeToolTip": "Models\\Review.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T14:23:39.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CosmeticProduct.cs",
+              "DocumentMoniker": "F:\\Course-25\\Rukaiya Projects\\SmartCommerce\\SmartCommerceX\\SmartCommerceX\\Models\\CosmeticProduct.cs",
+              "RelativeDocumentMoniker": "Models\\CosmeticProduct.cs",
+              "ToolTip": "F:\\Course-25\\Rukaiya Projects\\SmartCommerce\\SmartCommerceX\\SmartCommerceX\\Models\\CosmeticProduct.cs",
+              "RelativeToolTip": "Models\\CosmeticProduct.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T14:26:01.867Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
